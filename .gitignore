@@ -1,0 +1,11 @@
+.python-version
+*.pyc
+*.tar
+*.txt
+*.mm
+*.mm.index
+*.tfidf
+*.lda
+*.state
+*.lda.state
+./Documents
